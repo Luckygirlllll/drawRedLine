@@ -1,8 +1,5 @@
 package com.example.attracti.drawredline;
 
-/**
- * Created by attracti on 4/4/16.
- */
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
